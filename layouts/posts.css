@@ -1,0 +1,67 @@
+/* line 1, ../sass/layout/posts.scss */
+.row {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 1rem;
+  grid-row-gap: 1rem;
+}
+
+/* line 9, ../sass/layout/posts.scss */
+.col-1 {
+  grid-column: span 1;
+}
+
+/* line 9, ../sass/layout/posts.scss */
+.col-2 {
+  grid-column: span 2;
+}
+
+/* line 9, ../sass/layout/posts.scss */
+.col-3 {
+  grid-column: span 3;
+}
+
+/* line 9, ../sass/layout/posts.scss */
+.col-4 {
+  grid-column: span 4;
+}
+
+/* line 9, ../sass/layout/posts.scss */
+.col-5 {
+  grid-column: span 5;
+}
+
+/* line 9, ../sass/layout/posts.scss */
+.col-6 {
+  grid-column: span 6;
+}
+
+/* line 9, ../sass/layout/posts.scss */
+.col-7 {
+  grid-column: span 7;
+}
+
+/* line 9, ../sass/layout/posts.scss */
+.col-8 {
+  grid-column: span 8;
+}
+
+/* line 9, ../sass/layout/posts.scss */
+.col-9 {
+  grid-column: span 9;
+}
+
+/* line 9, ../sass/layout/posts.scss */
+.col-10 {
+  grid-column: span 10;
+}
+
+/* line 9, ../sass/layout/posts.scss */
+.col-11 {
+  grid-column: span 11;
+}
+
+/* line 9, ../sass/layout/posts.scss */
+.col-12 {
+  grid-column: span 12;
+}
